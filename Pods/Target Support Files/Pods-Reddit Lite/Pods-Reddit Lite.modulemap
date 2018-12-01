@@ -1,0 +1,6 @@
+framework module Pods_Reddit_Lite {
+  umbrella header "Pods-Reddit Lite-umbrella.h"
+
+  export *
+  module * { export * }
+}
