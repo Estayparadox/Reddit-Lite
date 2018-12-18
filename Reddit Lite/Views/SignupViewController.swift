@@ -52,22 +52,6 @@ class SignupViewController: UIViewController {
             }
         }
         
-        /* Auth.auth().createUser(withEmail: email, password: password) { user, error in
-            if error == nil && user != nil {
-                
-                print("User has been correctly created.")
-                let changeRequest = Auth.auth().currentUser?.createProfileChangeRequest()
-                changeRequest?.displayName = name
-                changeRequest?.commitChanges { error in
-                    if error == nil {
-                        print("User display name changed successfully.")
-                        self.dismiss(animated: true, completion: nil)
-                    }
-                }
-            } else {
-                print("Error: \(String(describing: error?.localizedDescription)).")
-            }
-        } */
     }
     
 }
