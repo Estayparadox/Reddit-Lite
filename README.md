@@ -13,7 +13,7 @@ The subject of the exercise was to create any application using various features
 This application provide the possibility to search topics on Reddit without being overloaded with unwanted and unseless information.
 
 This project has been realized with the contribution of [Thauvin Alexandre](https://github.com/alexandre-thauvin).
-This is the final result of the application, you can find the details of all the commits made [here](https://github.com/alexandre-thauvin/reddit_pulling/commits/master)
+This is the final result of the application.
 
 ## Demo
 
